@@ -1,4 +1,4 @@
-- # **Project Overview:**
+# **Project Overview:**
 
 This SQL project revolves around a database schema designed to manage and analyze data for a pizza store. The database consists of four primary tables: order_details, pizzas, orders, and pizza_types. Each table plays a crucial role in storing different facets of the business operations, from individual orders to the types of pizzas offered. Below is a detailed description of each table and its columns:
 
@@ -40,7 +40,7 @@ A pizza sales store manager can utilize this SQL project to extract valuable ins
   
 - **Marketing Insights:** Data analysis can also support targeted marketing campaigns, like promotions on specific types of pizzas that are popular or on days when sales are typically lower.
 
-
+---
 # **Basic Questions:**
 1. Retrieve the total number of orders placed.
 2. Calculate the total revenue generated from pizza sales.
